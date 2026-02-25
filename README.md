@@ -1,13 +1,13 @@
 # Connect 4 (Python Console Game)
 
-A feature-rich, console-based Connect 4 game with an AI opponent, written in Python.
+A feature-rich, console-based Connect 4 game with an AI opponent, written in Python for the ICS3UI midterm project.
 
 ---
 
 ## Features
 
 - **Classic Connect 4 gameplay**: 7x6 board, two players (human vs. AI)
-- **Animated piece drops** and colored output for an engaging terminal experience
+- **Animated piece drops** and coloured output for an engaging terminal experience
 - **AI opponent** using Minimax with alpha-beta pruning and positional heuristics
 - **Win detection** for horizontal, vertical, and diagonal connections
 - **Replay option** after each game
